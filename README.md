@@ -1,7 +1,27 @@
-# arquivos_uteis
-Repositório de arquivos úteis que não devem ser perdidos.
+This repository contains two Jupyter Notebooks exploring foundational concepts in:
+- 🧠 **Principal Component Analysis (PCA)** and **Linear Discriminant Analysis (LDA)**
+- 📈 **Time Series Analysis** with theoretical context and applied examples
 
-1) Nota sobre instalação de virtual env + python
-2) Aula Let's Code: PCA e LDA
-3) Aula Let's Code: Séries Temporais
-4) Notebook com exemplo de código que envia docs para banco de dados no AWS
+Both notebooks aim to provide **mathematical understanding** and **intuitive explanations** for students and professionals deepening their data science and machine learning knowledge.
+
+---
+
+## 🧮 1. PCA & LDA – Theory and Mathematical Foundations
+
+### 🔍 Topics Covered:
+- What is dimensionality reduction?
+- PCA
+- LDA
+
+📌 *This notebook is theory-focused, with formulas, diagrams, and visual intuition. No datasets or coding examples are included.*
+
+---
+
+## 📊 2. Time Series – Theory and Practical Examples
+
+### 🔍 Topics Covered:
+- Introduction to time series data
+- Stationarity, trends, seasonality
+- Autocorrelation and lag plots
+- Overview of models (AR, MA, ARIMA)
+- Practical examples using Python
