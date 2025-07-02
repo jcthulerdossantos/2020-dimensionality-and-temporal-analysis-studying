@@ -1,9 +1,0 @@
-[APÓS BAIXAR PYTHON]
-
-1) Criando o ambiente virtual
-python -m venv %systemdrive%%homepath%\my-venv
-%systemdrive%%homepath%\my-venv\Scripts\activate.bat
-
-2) Instalando bibliotecas - caso tenha problema com o pip install convencional
-CONVENCIONAL: pip install pandas sklearn numpy
-COM LINK p SSL Error: pip install --trusted-host pypi.org --trusted-host files.pythonhosted.org pandas sklearn numpy
